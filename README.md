@@ -29,8 +29,6 @@ Install all dependencies with:
 pip install -r requirements.txt
 ```
 
-Key packages: TensorFlow ≥ 2.13, NumPy, Pandas, Matplotlib, scikit-learn, Pillow.
-
 ---
 
 ## Usage
